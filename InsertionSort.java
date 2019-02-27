@@ -9,6 +9,6 @@ public class InsertionSort implements SortingAlgorithm{
                 --j;
             }
             a[j+1]=temp;
-	    }
+	}
     }
 }
